@@ -2,7 +2,7 @@
 
 |Top Langs|Stats|
 |-----|-----|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakano79&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakano79&hide=prs&show_icons=true&theme=react&hide_border=true)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakano79&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakano79&show_icons=true&hide=prs&theme=react&hide_border=true)|
 
 
 ### 📚 Language
